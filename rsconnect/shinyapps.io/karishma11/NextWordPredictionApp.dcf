@@ -1,0 +1,13 @@
+name: NextWordPredictionApp
+title: NextWordPredictionApp
+username:
+account: karishma11
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2578100
+bundleId: 3398650
+url: https://karishma11.shinyapps.io/NextWordPredictionApp/
+when: 1594883171.45368
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 07_Task_SlideDeck.md|07_Task_SlideDeck.Rpres
